@@ -68,6 +68,8 @@
 * [SLAM Benchmarking](http://ais.informatik.uni-freiburg.de/slamevaluation/), AIS at Univ. of Freiburg
 * [Robotic 3D Scan Repository](http://kos.informatik.uni-osnabrueck.de/3Dscans/), Univ. of Wurzburg and Univ. of Osnabruck
 * [3D Pose Graph Optimization](https://lucacarlone.mit.edu/datasets/), Luca Carlone
+* [Monado SLAM Dataset](https://huggingface.co/datasets/collabora/monado-slam-datasets) (MSD), Collabora et al. — [Paper (IROS 2025)](https://arxiv.org/abs/2508.00088)
+  * :memo: ~5h15m of indoor sequences recorded in an apartment using 3 VR headsets (Valve Index, Samsung Odyssey+, HP Reverb G2). Dense ground truth from 3 lighthouse base stations. License: CC BY 4.0.
 * **Landmark-based Localization**
   * [Range-only Data for Localization](http://www.frc.ri.cmu.edu/projects/emergencyresponse/RangeData/), CMU RI
   * [Roh's Angulation Dataset](https://github.com/sunglok/TriangulationToolbox/tree/master/dataset_roh), HyunChul Roh
